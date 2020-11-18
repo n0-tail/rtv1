@@ -1,0 +1,14 @@
+* CAMERA coord-XYZ target-XYZ rot-XYZ
+  0 0 -1 0 0 1 0 0 100
+* SPOT coord-XYZ power 
+	10 10 100 100
+	* SPOT coord-XYZ power 
+	-210 10 300 100
+* SPOT coord-XYZ power 
+	0 0 300 100
+* SPOT coord-XYZ power 
+	-100 -100 300 100
+* SCENE  ambient  speculars  shadows  shading  color-RGB
+	1 2 3 4 101 102 103  
+* CONE start-XYZ	end-XYZ			angle	color-RGB	rotation-XYZ
+100 0	0 0	0 0 	1 25 55 155 0 1 0
